@@ -189,8 +189,9 @@ head
 .contact-form-wrapper .list {
     background: #2f3341 none repeat scroll 0 0;
     border-radius: 0;
+
 }
-=======
+
 
 .nice-select {
     -webkit-tap-highlight-color: transparent;
@@ -382,4 +383,4 @@ head
     background: #2f3341 none repeat scroll 0 0;
     border-radius: 0;
 }
->>>>>>> 72d60d25f2c42a7934a70d86376e2e52fafac0c4
+
