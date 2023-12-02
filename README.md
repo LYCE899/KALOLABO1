@@ -1,9 +1,9 @@
-#﻿kalolabo African Menstrual Education 
+# ﻿kalolabo African Menstrual Education 
 
  The software specified in this document, "Kalolabɔ", is an innovative educational application designed to raise awareness and help African women better understand and manage their menstrual cycle. Its main objective is to provide a comprehensive and accessible resource for menstrual education and management, taking into account the needs and cultural realities of the African population.
 
-## Access the website and a video demo of the first part of the application 
-
+### Access the website and a video demo of the first part of the application
+ 
  You can access the KALOLABO website from vercel:
 
 -----Website -------
