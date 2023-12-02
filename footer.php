@@ -11,9 +11,8 @@
 					</div>
 				</div>
 			</div>
-			<!--/ End Copyright -->
-=======
-		  <!-- Copyright -->
+		<!--/ End Copyright -->
+		<!-- Copyright -->
 			<div class="copyright">
 				<div class="container">
 					<div class="row">
@@ -25,6 +24,5 @@
 					</div>
 				</div>
 			</div>
-			<!--/ End Copyright -->
->>>>>>> 72d60d25f2c42a7934a70d86376e2e52fafac0c4
+			<!--/ End Copyright -->		
 </head>

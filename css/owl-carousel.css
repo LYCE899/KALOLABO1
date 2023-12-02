@@ -41,7 +41,8 @@ head>
 .owl-theme .owl-dots .owl-dot {
     display: inline-block;
     zoom: 1;
-    *display: inline; }
+    *display ::after inline 
+  }
 .owl-theme .owl-dots .owl-dot span {
     width: 10px;
     height: 10px;
@@ -320,9 +321,9 @@ head>
   }
     {
     background: #D6D6D6;
-    display::after block
+    display:after block
     -webkit-backface-visibility visible
-    transition : opacity 200ms ease;
+    transition  opacity 200ms ease;
     border-radius : 30px; }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
     background: #869791; 

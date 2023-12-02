@@ -408,6 +408,7 @@
 		<!-- End Appointment -->
 		
 		<?php include "footer.php"; ?>
+		
 		<!-- jquery Min JS -->
         <script src="js/jquery.min.js"></script>
 		<!-- jquery Migrate JS -->
