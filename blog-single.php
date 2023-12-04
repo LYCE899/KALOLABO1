@@ -111,7 +111,7 @@
 				</div>
 			</div>
 			<!--/ End Header Inner -->
-		</header>
+		
 		<!-- End Header Area -->
 		
 		<!-- Single News -->
